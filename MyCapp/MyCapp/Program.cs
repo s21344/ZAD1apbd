@@ -4,7 +4,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        int[] tbl = { 1, 7, 2, 8};
+        int[] tbl = { 1};
         
     }
 
